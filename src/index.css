@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Raleway', sans-serif;
+  /* font-family: 'Rubix', sans-serif; */
+
+  color: rgb(44, 53, 61);
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100%;
+  overflow-x: hidden;
+  
+}
+
+a {
+  text-decoration: none;
+  
+}
+
+/* Animations */
+@keyframes animateDown {
+  0%, 20%, 50%, 80%, 100% {
+    tansform: translateY(0);
+  } 
+  20% {
+    transform: translateY(8px)
+  }
+  40% {
+    transform: translateY(7px)
+  }
+  60% {
+    transform: translateY(6px)
+  }
+  80% {
+    transform: translateY(4px)
+  }
+  100% {
+    transform: translateY(2px)
+  }
+}
+
