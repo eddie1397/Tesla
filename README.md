@@ -78,7 +78,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Material-UI][Material-UI]][Material-UI-url]
 * [![Material-D][Material-D]][Material-D-url]
 * [![Redux][Redux]][Redux-url]
-* [![React-Icons][React Icons]][React-Icons-url]
+* [![React-Icons][React-Icons]][React-Icons-url]
 * [![CSS][CSS]][CSS-url]
 * [![Javascript][Javascript]][Javascript-url]
 * [![Netlify][Netlify]][Netlify-url]
@@ -177,3 +177,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [Material-UI-url]: https://mui.com/
 [Material-D]: https://img.shields.io/badge/material%20design-757575?style=for-the-badge&logo=material%20design&logoColor=white
 [Material-D-url]: https://m2.material.io/design
+[React-Icons]: public\images\portfolio-usage\react-icons.png
+[React-Icons-url]: https://react-icons.github.io/react-icons
