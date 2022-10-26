@@ -78,7 +78,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Material-UI][Material-UI]][Material-UI-url]
 * [![Material-D][Material-D]][Material-D-url]
 * [![Redux][Redux]][Redux-url]
-* [![React-Icons][React-Icons]][React-Icons-url]
+* <img src="public\images\portfolio-usage\react-icons.PNG" alt="React-Icon Logo" width="130" height='auto'>
 * [![CSS][CSS]][CSS-url]
 * [![Javascript][Javascript]][Javascript-url]
 * [![Netlify][Netlify]][Netlify-url]
