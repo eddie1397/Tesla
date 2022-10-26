@@ -30,7 +30,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
   <a href="https://www.tesla.com/">
-    <img src="public\images\tesla-logo.png" alt="Logo" width="80" height="80">
+    <img src="public\images\tesla-logo.png" alt="Logo" width="30%">
   </a>
 
   <h1 align="center">Tesla</h3>
@@ -102,7 +102,8 @@ To open the project, [CLICK HERE!](https://tesla-clone13.netlify.app)
 <img src="public\images\portfolio-usage\Capture 3.PNG" alt="Capture3" width="100%">
 <img src="public\images\portfolio-usage\Capture 4.PNG" alt="Capture4" width="100%">
 <img src="public\images\portfolio-usage\Capture 5.PNG" alt="Capture5" width="100%">
-
+<img src="public\images\portfolio-usage\Capture 6.PNG" alt="Capture6" width="100%">
+<img src="public\images\portfolio-usage\Capture 7.PNG" alt="Capture7" width="100%">
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
